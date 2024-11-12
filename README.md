@@ -70,9 +70,6 @@ Las contribuciones son bienvenidas. Para cambios importantes:
 - Haz push a la rama (git push origin feature/nueva-caracteristica)
 - Abre un Pull Request
 
-## 📝 Licencia
-Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE.md para más detalles
-
 ## 👨‍💻 Desarrollado por
 Jorge Izarra - https://github.com/JorgeIzarra
 
